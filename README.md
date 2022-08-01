@@ -1,5 +1,9 @@
 # blender3d-app
 
+Description:
+A Fullstack "ERN" (Express, React.js, Node.js) application that renders a 3D Model in the local browser given a CSV file, atlas, and color.
+
+
 Instructions:
 
 Step 1) Download the source code
