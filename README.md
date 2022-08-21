@@ -10,7 +10,7 @@ Step 1) Download the source code
 
 Step 2) Drag the folder into a terminal
 
-Step 3) Make directory called public2 in the folder
+Step 3) Make directory called public2 in the folder (This is to store the txt files locally)
 
 Step 4) Run "npm start" in the aforestated folder location to open the code in localhost:8000 (on a web browser like Chrome, Firefox, etc.)
 
